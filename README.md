@@ -4,7 +4,7 @@
 Данный проект посвящён анализу списка миллиардеров Forbes за 2022 год. Цель — исследовать основные характеристики миллиардеров, их распределение по странам, источникам состояния и индустриям, а также выявить зависимости между возрастом и уровнем богатства.
 
 ## Используемые данные  
-- Источник: [Kaggle: Forbes Billionaires 2022 Dataset](https://www.kaggle.com/datasets/)  
+- Источник: [Kaggle: Forbes Billionaires 2022 Dataset](https://www.kaggle.com/datasets/jjdaguirre/forbes-billionaires-2022)  
 - Файл: `2022_forbes_billionaires.csv`  
 - Включены колонки:  
   - rank — рейтинг  
